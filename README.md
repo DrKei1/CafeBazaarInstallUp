@@ -8,6 +8,7 @@ API افزایش سریع و آسان تعداد نصب فعال در کافه �
 
 <br>
 # What's New?
+
 ✔ New devices added (Xiaomi, Samsung,..)
 
 <br>
