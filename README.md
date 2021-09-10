@@ -10,8 +10,10 @@ API افزایش سریع و آسان تعداد نصب فعال در کافه �
 
 # What's New?
 
-✔ New devices added (Xiaomi, Samsung,..)  [2021/10/10]
+✔ <a href="https://github.com/DrKei1/CafeBazaarInstallUp/blob/main/CafeBazaarInstallUp/bin/Release/devices.txt">New devices added (Xiaomi, Samsung,..)  [2021/10/10]</a>
 
 <br>
 # Contact
-Telegram: <a href="https://t.me/Dr_Key" color="blue">@Dr_Key</a>
+My Telegram: <a href="https://t.me/Dr_Key" color="blue">@Dr_Key</a>
+
+Many Thanks to dear <a href="https://github.com/HaCkErNiCe">HaCkErNiCe</a>
