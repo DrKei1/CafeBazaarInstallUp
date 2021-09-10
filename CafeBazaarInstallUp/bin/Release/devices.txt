@@ -1,3 +1,23 @@
+Xiaomi:Mi 9T
+Xiaomi:MI 3
+Xiaomi:Mi 9 Lite
+Xiaomi:Mi 9 SE
+Xiaomi:Mi 9T
+Xiaomi:Mi 9T Pro
+Xiaomi:Mi A2
+Xiaomi:Mi Note 10
+Xiaomi:Mi Note 10 Lite
+Xiaomi:MIX 2
+Xiaomi:MIX 2S
+Xiaomi:Mi Note 3
+Xiaomi:MI 9
+Xiaomi:MI 9 SE
+Xiaomi:Mi 9 Lite
+Xiaomi:	MI 5C
+Xiaomi:MI 4LTE
+Xiaomi:MI 8 Pro
+Xiaomi:Mi 10
+Xiaomi:Redmi Note 2
 Huawei:C8600
 Huawei:CHT8000
 Huawei:Huawei Ideos X1
@@ -23,6 +43,27 @@ Huawei:T8830Pro
 Huawei:U9202L-1
 Huawei:U9202L-3
 Huawei:C8500
+Samsung:SM-N9500
+Samsung:SM-N960U
+Samsung:SM-G5510
+Samsung:SM-G610K
+Samsung:SM-T725
+Samsung:SM-T820
+Samsung:SM-T837
+Samsung:SM-T725N
+Samsung:SM-T878U
+Samsung:SM-T975
+Samsung:SM-T970
+Samsung:SGH-T779
+Samsung:GT-P3100
+Samsung:SM-T211
+Samsung:SM-T310
+Samsung:SM-T111
+Samsung:SM-T530NU
+Samsung:SM-T230NW
+Samsung:SM-T231
+Samsung:SM-E700M
+Samsung:SM-T235
 Huawei:C8511
 Huawei:MTS-SP101
 Huawei:C8512
@@ -64,3 +105,17 @@ Huawei:HUAWEI C8817L
 Huawei:HUAWEI C8818
 Huawei:HUAWEI C8826D
 Huawei:HUAWEI-C8850
+Samsung:SM-G928X
+Samsung:SM-G920T1
+Samsung:SM-G925K
+Samsung:SM-G9208
+Samsung:SM-G903M
+Samsung:SM-G920F
+Samsung:SM-G901F
+Samsung:SM-G900R4
+Samsung:SM-G900L
+Samsung:SM-G900FQ
+Samsung:GT-I9197
+Samsung:GT-I9505X
+Samsung:SC-04E
+Samsung:SM-G3812B
